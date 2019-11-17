@@ -1,1 +1,1 @@
-web: gunicorn megpro_repo.app:app
+web: gunicorn flask_rest_service:app
