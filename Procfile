@@ -1,1 +1,1 @@
-web: gunicorn megaproject_gold.app:app
+web: gunicorn megpro_repo.app:app
