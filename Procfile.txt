@@ -1,1 +1,1 @@
-web: gunicorn app:app
+web: gunicorn megpro_hero.app:app
